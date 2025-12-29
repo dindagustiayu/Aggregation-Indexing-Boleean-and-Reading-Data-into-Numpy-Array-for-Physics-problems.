@@ -17,7 +17,7 @@ The following expression for the different types of average speed can be derived
 - $\langle v \rangle = \sqrt{\frac{8k_{B}T}{\pi m}}$ (mean)
 - $\langle v^{2} \rangle^{1/2} = \sqrt{\frac{3k_{B}T}{m}}$ (rms speed).
 
-- ![Maxwell-Boltzmann Distribution of He and Ar](https://github.com/dindagustiayu/Aggregation-Indexing-Boleean-and-Reading-Data-into-Numpy-Array-for-Physics-problems./blob/master/Boleean-svg/Maxwell-Boltzmann%20Distribution%20of%20He%20and%20Ar.svg).
+- ![Maxwell-Boltzmann Distribution of He and Ar](https://github.com/dindagustiayu/Aggregation-Indexing-Boleean-and-Reading-Data-into-Numpy-Array-for-Physics-problems./releases%20Distribution%20of%20He%20and%https://github.com/dindagustiayu/Aggregation-Indexing-Boleean-and-Reading-Data-into-Numpy-Array-for-Physics-problems./releases).
 
 - # P6.2 Maxwell Boltzmann Distribution
 The Maxwell-Boltzmann equation, the basis of the kinetic thoery of gases, defines the distribution of speeds for a gas at a certain temperature. The Maxwell-Boltzmann distribuiton can be used to determine the distribution of the kinetic energy is identical to the distribution of the speeds for a certain gas at any temperature, _T_:
@@ -30,17 +30,17 @@ __The key Functions and Argument__:
 - `return`: sends back the computed value when the function is called
 - `for` loop: iterate over multiple items
 - `zip`: combines multiple list into tuples
-- `np.linspace`: generate evenly spaced numbers (start/beginning range, stop/end of range, num/number of points)
-- `plt.rxParams`: control global plot settings(fonts, sizes, styles)
-- `plt.legend`: show labels for each curve
+- `https://github.com/dindagustiayu/Aggregation-Indexing-Boleean-and-Reading-Data-into-Numpy-Array-for-Physics-problems./releases`: generate evenly spaced numbers (start/beginning range, stop/end of range, num/number of points)
+- `https://github.com/dindagustiayu/Aggregation-Indexing-Boleean-and-Reading-Data-into-Numpy-Array-for-Physics-problems./releases`: control global plot settings(fonts, sizes, styles)
+- `https://github.com/dindagustiayu/Aggregation-Indexing-Boleean-and-Reading-Data-into-Numpy-Array-for-Physics-problems./releases`: show labels for each curve
 
 Calculated speed distribution of particles in He, Ne, Ar, and Xe, with temperature at 300 K.
 
 Reference:
-- [The Maxwell-Boltzmann](https://bingweb.binghamton.edu/~suzuki/ModernPhysics/29_Boltzmann_theory_of_gas.pdf)
-- [P.33 Atomic Mass Unit](http://localhost:8888/lab/tree/Quantum-Code/posts/String_Flow_Control.ipynb)
+- [The Maxwell-Boltzmann](https://github.com/dindagustiayu/Aggregation-Indexing-Boleean-and-Reading-Data-into-Numpy-Array-for-Physics-problems./releases~https://github.com/dindagustiayu/Aggregation-Indexing-Boleean-and-Reading-Data-into-Numpy-Array-for-Physics-problems./releases)
+- [P.33 Atomic Mass Unit](https://github.com/dindagustiayu/Aggregation-Indexing-Boleean-and-Reading-Data-into-Numpy-Array-for-Physics-problems./releases)
 
-![Probability Density of He, Ne, Ar and Xe at T = 300 K](https://github.com/dindagustiayu/Aggregation-Indexing-Boleean-and-Reading-Data-into-Numpy-Array-for-Physics-problems./blob/master/Boleean-svg/Probability%20Density%20of%20He%2C%20Ne%2C%20Ar%2C%20and%20Xe%20at%20T%20%3D%20300%20K.svg).
+![Probability Density of He, Ne, Ar and Xe at T = 300 K](https://github.com/dindagustiayu/Aggregation-Indexing-Boleean-and-Reading-Data-into-Numpy-Array-for-Physics-problems./releases%20Density%20of%20He%2C%20Ne%2C%20Ar%2C%20and%20Xe%20at%20T%20%3D%20300%https://github.com/dindagustiayu/Aggregation-Indexing-Boleean-and-Reading-Data-into-Numpy-Array-for-Physics-problems./releases).
 
 # P6.3 - The Lennard-Jones Interatomic Potential
 The Lennard-Jones potential is given by the following equation:
@@ -51,12 +51,12 @@ or sometimes expressed as:
 
 $V(r)=\frac{A}{r^{12}}-\frac{B}{r^{6}}$
 
-reference: [Lennard-Jones Potential](https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Physical_Properties_of_Matter/Atomic_and_Molecular_Properties/Intermolecular_Forces/Specific_Interactions/Lennard-Jones_Potential)
+reference: [Lennard-Jones Potential](https://github.com/dindagustiayu/Aggregation-Indexing-Boleean-and-Reading-Data-into-Numpy-Array-for-Physics-problems./releases(Physical_and_Theoretical_Chemistry)/Physical_Properties_of_Matter/Atomic_and_Molecular_Properties/Intermolecular_Forces/Specific_Interactions/Lennard-Jones_Potential)
 
 __The key argument__:
 
 - `plt` and `pyplot`: matplotlib's functionality
-- `plt.xlim` and `plt.ylim`: set the plot limits manually
+- `https://github.com/dindagustiayu/Aggregation-Indexing-Boleean-and-Reading-Data-into-Numpy-Array-for-Physics-problems./releases` and `https://github.com/dindagustiayu/Aggregation-Indexing-Boleean-and-Reading-Data-into-Numpy-Array-for-Physics-problems./releases`: set the plot limits manually
 - `linestyle`, `linewidth`, `color`, `marker`: matplotlib properties
 - `zorder`: controls the drawing order
 - `def`: intriduces a function definition
@@ -67,7 +67,7 @@ __The key argument__:
 
 (b) Calculate the intermolecular potential between two Argon (Ar) atoms separated by a distance of 4.0 $\mathring{\text{A}}$ (use $\epsilon=0.997$ kJ/mol and $\sigma=3.40 \mathring{\text{A}}$).
 
-![Lennard-Jones Potential for Xenon](https://github.com/dindagustiayu/Aggregation-Indexing-Boleean-and-Reading-Data-into-Numpy-Array-for-Physics-problems./blob/master/Boleean-svg/Lennard-Jones.svg).
+![Lennard-Jones Potential for Xenon](https://github.com/dindagustiayu/Aggregation-Indexing-Boleean-and-Reading-Data-into-Numpy-Array-for-Physics-problems./releases).
 
 # P6.4 - Radioactive list
 A radioactive material with an original mass, $N_{0}$, after a time _t_.
@@ -92,7 +92,7 @@ Remember that because your program uses time-steps of one minute, your measured 
 
 (c) Combine the list into a nested list Nt, such that every element in the list Nt is a pair of matching t and _N(t)_ values. For example, the first element Nt[0] of this listshould be [0, 4.5]. Use the new nested list to wirte nicely a formatted table of corresponding _t_ and _N(t)_ values to the terminal.
 
-![Radioactive decay of carbon-11](https://github.com/dindagustiayu/Aggregation-Indexing-Boleean-and-Reading-Data-into-Numpy-Array-for-Physics-problems./blob/master/Boleean-svg/Radioactive%20decay%20of%20carbon-11.svg).
+![Radioactive decay of carbon-11](https://github.com/dindagustiayu/Aggregation-Indexing-Boleean-and-Reading-Data-into-Numpy-Array-for-Physics-problems./releases%20decay%20of%https://github.com/dindagustiayu/Aggregation-Indexing-Boleean-and-Reading-Data-into-Numpy-Array-for-Physics-problems./releases).
 
 # P6.5 - Trapped Quantum Particle
 One of the rules in quantum mechanics is that, sometimes, particles are only allowed to have specific energies, and can never have an energy in between these allowed levels. The particle must therefor must jump straight from one energy level to another.
@@ -100,12 +100,12 @@ One of the rules in quantum mechanics is that, sometimes, particles are only all
 __The key functions and arguments:__
 
 - `sum()`: adds up all elements in an iterable (like a list)
-- `np.array()`: creates a NumPy array from a list or other sequence
-- `np.concatenates()`: joins (concatenates) multiple arrays along specified axis
-- `plt.subplota`: create a new figure and one or more subplots. Return (`fog, ax` objects.
+- `https://github.com/dindagustiayu/Aggregation-Indexing-Boleean-and-Reading-Data-into-Numpy-Array-for-Physics-problems./releases()`: creates a NumPy array from a list or other sequence
+- `https://github.com/dindagustiayu/Aggregation-Indexing-Boleean-and-Reading-Data-into-Numpy-Array-for-Physics-problems./releases()`: joins (concatenates) multiple arrays along specified axis
+- `https://github.com/dindagustiayu/Aggregation-Indexing-Boleean-and-Reading-Data-into-Numpy-Array-for-Physics-problems./releases`: create a new figure and one or more subplots. Return (`fog, ax` objects.
 - `set_array`: set the value that control colormap coloring (`line collection`)
-- `ax.scatter`: creates a scatter plot on a specific axis(`ax`)
-- `ax.autoscal`" automatically adjust the axis limits to fit the data.
+- `https://github.com/dindagustiayu/Aggregation-Indexing-Boleean-and-Reading-Data-into-Numpy-Array-for-Physics-problems./releases`: creates a scatter plot on a specific axis(`ax`)
+- `https://github.com/dindagustiayu/Aggregation-Indexing-Boleean-and-Reading-Data-into-Numpy-Array-for-Physics-problems./releases`" automatically adjust the axis limits to fit the data.
 
 When a particle is trapped in a tiny box of size _L_, quantum mechanics say that it is only allowed to have energies.
 
@@ -119,4 +119,4 @@ $E_{i+1}-E_{i}=\frac{(i+1)^{2}-i^{2}h^{2}}{8mL^{2}}$
 
 Write a for loop which calculates the energy required for each step along the way,and saves them in alist. Sum also up the total energy the particle has used on its way upwards.
 
-![Trapped Quantum Particle](https://github.com/dindagustiayu/Aggregation-Indexing-Boleean-and-Reading-Data-into-Numpy-Array-for-Physics-problems./blob/master/Boleean-svg/Trapped%20Quantum%20Particle.svg).
+![Trapped Quantum Particle](https://github.com/dindagustiayu/Aggregation-Indexing-Boleean-and-Reading-Data-into-Numpy-Array-for-Physics-problems./releases%20Quantum%https://github.com/dindagustiayu/Aggregation-Indexing-Boleean-and-Reading-Data-into-Numpy-Array-for-Physics-problems./releases).
